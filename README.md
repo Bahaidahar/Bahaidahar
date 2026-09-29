@@ -2,7 +2,7 @@
 
 Frontend engineer from Almaty, Kazakhstan. 4 years of shipping user-facing products end to end — from Figma to production.
 
-- 💼 Currently: **Senior Developer at Shart Rate** (fintech lending) — Flutter apps + internal TypeScript dashboard
+- 💼 Currently: **Senior Frontend / Mobile AI-native Developer at Shart Rate**
 - ⚛️ **TypeScript · React · Next.js** (App Router, SSR/SEO), Tailwind, Feature-Sliced Design, Storybook
 - 🧪 Quality: Vitest, Playwright E2E
 - 📱 Also ship mobile (Flutter) and backends (Node/NestJS, Go)
